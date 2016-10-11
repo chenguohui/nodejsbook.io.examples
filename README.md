@@ -40,3 +40,5 @@ The book contains examples written with Express 2.x. Since the book was released
   24. Using Node.js With Backbone.js
 
 [1]: http://www.amazon.com/gp/product/0672335956/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0672335956&linkCode=as2&tag=samsteayounod-20
+
+Welcome to nodejs world!
