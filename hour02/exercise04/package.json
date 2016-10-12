@@ -1,0 +1,7 @@
+{
+  "name": "exercise04",
+  "version": "0.0.1",
+  "dependencies": {
+    "coffee-script": "~1.11.1"
+  }
+}
