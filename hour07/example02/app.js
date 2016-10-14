@@ -30,6 +30,13 @@ app.get('/', routes.index);
 app.get('/about', function(req, res){
   res.send('Hello from the about route!');
 });
+app.get('/contact', function(req, res){
+  res.send('Hello from the contact route!');
+});
+app.get('/products', function(req, res){
+  res.send('Hello from the products route!');
+});
+
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));
