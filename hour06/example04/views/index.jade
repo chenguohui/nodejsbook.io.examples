@@ -6,3 +6,17 @@ block content
   ul
     each beatle in beatles
       li #{beatle} 
+  hr
+  ul
+    for beatle in beatles
+      li #{beatle}
+  hr
+  h1  Looping over an objects
+  - objs = {first_name: 'Chen', surname: 'Guohui'}
+  ul
+    each val, key in objs
+      li #{key}: #{val}
+    
+
+
+  
